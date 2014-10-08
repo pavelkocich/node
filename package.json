@@ -1,0 +1,8 @@
+{
+  "name": "Ibillboard_test",
+  "version": "0.0.0",
+  "description": "Ibillboard test",
+  "main": "server.js",
+  "repository": "",
+  "author": "Pavel Kocich"
+}
